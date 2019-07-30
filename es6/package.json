@@ -1,0 +1,24 @@
+{
+    "name": "mvc-es6",
+    "version": "1.0.0",
+    "description": "Mvc.js ECMAScript 6",
+    "main": "index.js",
+    "scripts": {
+      "test": "test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/youngmonkeys/mvc.js.git"
+    },
+    "keywords": [
+      "mvc", "mvc-javascript", "event-handler", "event-driven", "event-dispatcher"
+    ],
+    "author": "tvd12",
+    "license": "Apache-2.0",
+    "bugs": {
+      "url": "https://github.com/youngmonkeys/mvc.js/issues"
+    },
+    "homepage": "https://github.com/youngmonkeys/mvc.js#readme",
+    "dependencies": {}
+  }
+  
