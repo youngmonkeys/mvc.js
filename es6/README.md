@@ -29,8 +29,6 @@ loginController.updateViews("access-app", {success: true});
 
 # Installation
 
-for es6:
-
 ```
 npm i mvc-es6
 ```
