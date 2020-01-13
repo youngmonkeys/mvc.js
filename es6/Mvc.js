@@ -90,7 +90,7 @@ class MvcClass {
 
 }
 
-const mvcInstance = mvcInstance || new MvcClass();
+var mvcInstance = mvcInstance || new MvcClass();
 
 class MvcSingleton {
 
@@ -100,6 +100,6 @@ class MvcSingleton {
 
 }
 
-const Mvc = Mvc || new MvcSingleton();
+var Mvc = Mvc || new MvcSingleton();
 
 export default Mvc;
